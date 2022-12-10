@@ -1,0 +1,588 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1670703614967909, "dur":1858, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670703614969773, "dur":72, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1670703614969883, "dur":14, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1670703614969897, "dur":764, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1670703614970702, "dur":588, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670703614971290, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670703615675384, "dur":247, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670703615675631, "dur":37, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670703615675668, "dur":12, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670703615675680, "dur":14, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670703615675694, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670703615675696, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670703615675701, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670703615675702, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670703615675710, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670703615675711, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670703615675715, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670703615675716, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670703615675720, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670703615675721, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670703615675724, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670703615675726, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670703615675729, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670703615675730, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670703615675733, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670703615675735, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670703615675738, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670703615675739, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670703615675743, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670703615675744, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670703615675748, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670703615675749, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670703615675752, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670703615675753, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670703615675756, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670703615675758, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670703615675761, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670703615675762, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670703615675765, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670703615675781, "dur":1, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670703615675857, "dur":2167, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1670703614970614, "dur":681, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670703614971297, "dur":6459, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670703614977768, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1670703614977777, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670703614979426, "dur":1356, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1670703614980790, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1670703614980907, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670703614981303, "dur":9188, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1670703614990492, "dur":170, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":1, "ts":1670703614990665, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670703614990673, "dur":73728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":1, "ts":1670703615064496, "dur":19681, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1670703615084181, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670703615084189, "dur":2905, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1670703615087166, "dur":21595, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1670703615108765, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670703615108774, "dur":1682, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1670703615110543, "dur":33696, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1670703615144245, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670703615144256, "dur":3524, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1670703615147851, "dur":19016, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1670703615166870, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670703615166877, "dur":2013, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1670703615168968, "dur":37757, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1670703615206731, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670703615206742, "dur":2495, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1670703615209316, "dur":24756, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1670703615234078, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670703615234090, "dur":6327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1670703615240508, "dur":17121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1670703615257632, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670703615257642, "dur":2178, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1670703615259898, "dur":66227, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1670703615326130, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670703615326141, "dur":6196, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1670703615332411, "dur":159175, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1670703615491591, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670703615491600, "dur":1811, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1670703615493488, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1670703615493559, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670703615493565, "dur":1791, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1670703615495425, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":1, "ts":1670703615495495, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670703615495502, "dur":2065, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":1, "ts":1670703615497652, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":1, "ts":1670703615497769, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670703615497775, "dur":2875, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":1, "ts":1670703615500736, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1670703615500814, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670703615500826, "dur":10180, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1670703615511079, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1670703615511150, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1670703615511155, "dur":15500, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1670703615526730, "dur":148649, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670703614970634, "dur":665, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670703614971299, "dur":6466, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670703614977769, "dur":389, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1670703614978161, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670703615063149, "dur":5182, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1670703615068428, "dur":21434, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670703615089866, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670703615089875, "dur":1984, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670703615092110, "dur":57707, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670703615149823, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670703615149837, "dur":2245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670703615152164, "dur":28078, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670703615180248, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670703615180259, "dur":2263, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670703615182593, "dur":16473, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670703615199070, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670703615199078, "dur":3060, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670703615202201, "dur":16259, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670703615218463, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670703615218469, "dur":4373, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670703615222913, "dur":15318, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670703615238239, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670703615238253, "dur":3419, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670703615241743, "dur":30178, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670703615271925, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670703615271934, "dur":2798, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670703615274821, "dur":32060, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670703615306886, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670703615306897, "dur":3456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670703615310633, "dur":36015, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670703615346653, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670703615346663, "dur":3734, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670703615350470, "dur":114251, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670703615464725, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670703615464733, "dur":22021, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":2, "ts":1670703615486837, "dur":421, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":2, "ts":1670703615487263, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670703615488177, "dur":1640, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":2, "ts":1670703615489938, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":2, "ts":1670703615490008, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670703615490101, "dur":1856, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":2, "ts":1670703615492055, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/sharedassets3.resource" }}
+,{ "pid":12345, "tid":2, "ts":1670703615492137, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670703615492142, "dur":1539, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/sharedassets3.resource" }}
+,{ "pid":12345, "tid":2, "ts":1670703615493755, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":2, "ts":1670703615493829, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670703615493835, "dur":2115, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":2, "ts":1670703615496093, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":2, "ts":1670703615496167, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670703615496172, "dur":14985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":2, "ts":1670703615511237, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/resources.assets" }}
+,{ "pid":12345, "tid":2, "ts":1670703615511311, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670703615511316, "dur":5274, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/resources.assets" }}
+,{ "pid":12345, "tid":2, "ts":1670703615516807, "dur":245, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/level2" }}
+,{ "pid":12345, "tid":2, "ts":1670703615517055, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670703615517064, "dur":4835, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/level2" }}
+,{ "pid":12345, "tid":2, "ts":1670703615522461, "dur":397, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1670703615522862, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1670703615522867, "dur":1797, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1670703615524746, "dur":150636, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670703614970662, "dur":642, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670703614971304, "dur":6453, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670703614977768, "dur":26532, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1670703615004306, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670703615004626, "dur":61323, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1670703615066048, "dur":30599, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670703615096652, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670703615096661, "dur":5509, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670703615102258, "dur":186003, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670703615288266, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670703615288276, "dur":2224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670703615290568, "dur":5036, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670703615295611, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670703615295624, "dur":15515, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670703615311207, "dur":971, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670703615312182, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670703615312224, "dur":2151, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670703615314446, "dur":219265, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670703615533715, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1670703615533725, "dur":4034, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":3, "ts":1670703615537875, "dur":137510, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670703614970682, "dur":625, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670703614971307, "dur":6459, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670703614977770, "dur":8937, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1670703614986710, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670703614987250, "dur":3675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1670703614991007, "dur":79923, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670703615070946, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670703615071040, "dur":6565, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670703615077752, "dur":14547, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670703615092302, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670703615092311, "dur":2037, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670703615094500, "dur":25479, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670703615119984, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670703615119992, "dur":2161, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670703615122223, "dur":16729, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670703615138958, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670703615138968, "dur":2005, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670703615141050, "dur":23914, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670703615164972, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670703615164984, "dur":2135, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670703615167190, "dur":30442, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670703615197695, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670703615197706, "dur":4844, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670703615202629, "dur":15198, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670703615217836, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670703615217851, "dur":3630, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670703615221583, "dur":115957, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670703615337546, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670703615337557, "dur":7097, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670703615344730, "dur":65164, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670703615409899, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670703615409909, "dur":10343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670703615422588, "dur":131255, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670703615553848, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1670703615553858, "dur":1691, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1670703615555625, "dur":119765, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670703614970712, "dur":599, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670703614971311, "dur":6447, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670703614977770, "dur":263, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1670703614978034, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670703614988948, "dur":75796, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1670703615065850, "dur":51575, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670703615117431, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670703615117441, "dur":1667, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670703615119176, "dur":107879, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670703615227063, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670703615227075, "dur":4247, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670703615231407, "dur":47040, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670703615278452, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670703615279451, "dur":2600, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670703615282121, "dur":56033, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670703615338159, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670703615338167, "dur":8076, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670703615346311, "dur":41407, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670703615387724, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670703615387779, "dur":2045, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670703615389906, "dur":156472, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670703615546382, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1670703615546391, "dur":2963, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":5, "ts":1670703615549447, "dur":125944, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670703614970963, "dur":387, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670703614971350, "dur":6414, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670703614977770, "dur":625, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1670703614978397, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670703615065113, "dur":332206, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1670703615397397, "dur":38496, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670703615435900, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670703615435913, "dur":1707, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670703615437690, "dur":234476, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670703615672171, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1670703615672178, "dur":3114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":6, "ts":1670703615675348, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":6, "ts":1670703615675351, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670703614970748, "dur":568, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670703614971316, "dur":6444, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670703614977770, "dur":9956, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1670703614987729, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670703614988173, "dur":2185, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1670703614990431, "dur":288, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1670703614990722, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670703614990729, "dur":273669, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1670703615264479, "dur":75080, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670703615339564, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670703615339573, "dur":5938, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670703615345576, "dur":99324, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670703615444906, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670703615444917, "dur":2533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670703615447527, "dur":159411, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670703615606943, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1670703615606951, "dur":1387, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1670703615608409, "dur":66982, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670703614970764, "dur":555, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670703614971319, "dur":6443, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670703614977769, "dur":10655, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1670703614988428, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670703614988529, "dur":2633, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1670703614991244, "dur":223590, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /UnityPlayer.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670703615214838, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670703615214846, "dur":26083, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /UnityPlayer.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670703615241033, "dur":29960, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670703615270999, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670703615271011, "dur":2068, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670703615273149, "dur":53456, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670703615326609, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670703615326616, "dur":2261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670703615328961, "dur":84164, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670703615413129, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670703615413137, "dur":2050, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670703615415412, "dur":116389, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670703615531806, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1670703615531816, "dur":2141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1670703615534027, "dur":141360, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1670703614970785, "dur":538, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1670703614971323, "dur":6448, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1670703614977772, "dur":234, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1670703614978009, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1670703614983891, "dur":7941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1670703614991916, "dur":70281, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones.exe" }}
+,{ "pid":12345, "tid":9, "ts":1670703615062202, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1670703615062210, "dur":3070, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones.exe" }}
+,{ "pid":12345, "tid":9, "ts":1670703615065575, "dur":32491, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1670703615098069, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1670703615098077, "dur":3492, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1670703615102053, "dur":103267, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1670703615205326, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1670703615205337, "dur":5176, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1670703615210600, "dur":28135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":9, "ts":1670703615238739, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1670703615238745, "dur":12077, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":9, "ts":1670703615250914, "dur":112354, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":9, "ts":1670703615363274, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1670703615363283, "dur":1924, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":9, "ts":1670703615365273, "dur":46437, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":9, "ts":1670703615411755, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1670703615411791, "dur":11564, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":9, "ts":1670703615423424, "dur":113443, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":9, "ts":1670703615536876, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1670703615536890, "dur":1881, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":9, "ts":1670703615538821, "dur":136584, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670703614970807, "dur":520, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670703614971327, "dur":6434, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670703614977769, "dur":464, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":10, "ts":1670703614978236, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670703615064266, "dur":3235, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":10, "ts":1670703615067608, "dur":85439, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670703615153052, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670703615153061, "dur":3300, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670703615156463, "dur":16969, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670703615173471, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670703615173478, "dur":3427, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670703615177030, "dur":20574, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670703615197660, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670703615197671, "dur":3318, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670703615201060, "dur":17071, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670703615218135, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670703615218143, "dur":4881, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670703615223103, "dur":15168, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670703615238275, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670703615238281, "dur":3176, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670703615241540, "dur":128720, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670703615370266, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670703615370276, "dur":2781, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670703615373128, "dur":235193, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670703615608324, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1670703615608330, "dur":2063, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":10, "ts":1670703615610440, "dur":64949, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1670703614970826, "dur":504, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1670703614971330, "dur":6440, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1670703614977771, "dur":443, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1670703614978216, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1670703615063501, "dur":373161, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1670703615436738, "dur":59302, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":11, "ts":1670703615496043, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1670703615496051, "dur":2457, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":11, "ts":1670703615498581, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":11, "ts":1670703615498658, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1670703615498664, "dur":3573, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":11, "ts":1670703615502303, "dur":375, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":11, "ts":1670703615502681, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1670703615502686, "dur":10553, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":11, "ts":1670703615513314, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/level3" }}
+,{ "pid":12345, "tid":11, "ts":1670703615513390, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1670703615513395, "dur":3973, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/level3" }}
+,{ "pid":12345, "tid":11, "ts":1670703615517506, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/level1.resS" }}
+,{ "pid":12345, "tid":11, "ts":1670703615517577, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1670703615517581, "dur":3584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/level1.resS" }}
+,{ "pid":12345, "tid":11, "ts":1670703615521245, "dur":302, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":11, "ts":1670703615521551, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1670703615521558, "dur":3404, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":11, "ts":1670703615525037, "dur":150344, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670703614970849, "dur":485, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670703614971334, "dur":6446, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670703614977780, "dur":223, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1670703614978006, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670703614981146, "dur":9800, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1670703614992329, "dur":193, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":12, "ts":1670703614992526, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670703614993180, "dur":76970, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":12, "ts":1670703615070244, "dur":20982, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670703615091231, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670703615091241, "dur":1760, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670703615093091, "dur":14033, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670703615107130, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670703615107141, "dur":1873, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670703615109089, "dur":31489, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670703615140583, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670703615140592, "dur":6275, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670703615146946, "dur":23331, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670703615170282, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670703615170292, "dur":5565, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670703615175936, "dur":16163, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670703615192106, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670703615192119, "dur":1975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670703615194163, "dur":82493, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670703615276659, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670703615276668, "dur":1904, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670703615278641, "dur":3463, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670703615282108, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670703615282117, "dur":1562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670703615283750, "dur":7194, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670703615290948, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670703615290957, "dur":2000, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670703615293049, "dur":38704, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670703615331757, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670703615331766, "dur":12137, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670703615343986, "dur":152729, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670703615496718, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670703615496725, "dur":2437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":12, "ts":1670703615499232, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":12, "ts":1670703615499299, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670703615499304, "dur":7328, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":12, "ts":1670703615506725, "dur":3891, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":12, "ts":1670703615510657, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670703615510667, "dur":2507, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":12, "ts":1670703615513251, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/level3.resS" }}
+,{ "pid":12345, "tid":12, "ts":1670703615513363, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670703615513372, "dur":3859, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/level3.resS" }}
+,{ "pid":12345, "tid":12, "ts":1670703615517591, "dur":446, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/level0.resS" }}
+,{ "pid":12345, "tid":12, "ts":1670703615518040, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670703615518045, "dur":4135, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/level0.resS" }}
+,{ "pid":12345, "tid":12, "ts":1670703615522259, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":12, "ts":1670703615522353, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1670703615522359, "dur":1638, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":12, "ts":1670703615524081, "dur":151303, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670703614970872, "dur":465, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670703614971337, "dur":6443, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670703614977780, "dur":8699, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":13, "ts":1670703614986488, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670703614986509, "dur":4233, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":13, "ts":1670703614990842, "dur":71356, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":13, "ts":1670703615062203, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670703615062704, "dur":4211, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":13, "ts":1670703615067003, "dur":21377, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1670703615088385, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670703615088394, "dur":3317, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1670703615091816, "dur":28585, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1670703615120404, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670703615120410, "dur":2635, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1670703615123112, "dur":43367, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1670703615166483, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670703615166492, "dur":5569, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1670703615172142, "dur":23424, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1670703615195572, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670703615195583, "dur":6167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1670703615202015, "dur":16356, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1670703615218375, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670703615218382, "dur":5213, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1670703615223685, "dur":15572, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1670703615239261, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670703615239267, "dur":4143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1670703615243479, "dur":22318, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1670703615265804, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670703615265816, "dur":3321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1670703615269537, "dur":5339, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":13, "ts":1670703615274880, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670703615274890, "dur":1682, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":13, "ts":1670703615276641, "dur":38564, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":13, "ts":1670703615315211, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670703615315225, "dur":16158, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":13, "ts":1670703615331461, "dur":162091, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":13, "ts":1670703615493556, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670703615493564, "dur":1966, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":13, "ts":1670703615496045, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1670703615496147, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670703615496153, "dur":2615, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1670703615498839, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":13, "ts":1670703615498920, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670703615498925, "dur":3035, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":13, "ts":1670703615502031, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":13, "ts":1670703615502111, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670703615502120, "dur":11632, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":13, "ts":1670703615513824, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/level2.resS" }}
+,{ "pid":12345, "tid":13, "ts":1670703615513899, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670703615513904, "dur":3554, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/level2.resS" }}
+,{ "pid":12345, "tid":13, "ts":1670703615517527, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/level1" }}
+,{ "pid":12345, "tid":13, "ts":1670703615517600, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670703615517605, "dur":2404, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/level1" }}
+,{ "pid":12345, "tid":13, "ts":1670703615520111, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/level0" }}
+,{ "pid":12345, "tid":13, "ts":1670703615520184, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1670703615520191, "dur":2506, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/level0" }}
+,{ "pid":12345, "tid":13, "ts":1670703615522766, "dur":152635, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1670703614970889, "dur":451, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1670703614971340, "dur":6443, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1670703614977783, "dur":9438, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":14, "ts":1670703614987224, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1670703614987235, "dur":3375, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":14, "ts":1670703614990691, "dur":155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":14, "ts":1670703614990849, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1670703614990885, "dur":3071, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":14, "ts":1670703614994067, "dur":68133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1670703615062205, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1670703615062687, "dur":2456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1670703615065214, "dur":30558, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1670703615095778, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1670703615095788, "dur":1917, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1670703615097782, "dur":35191, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1670703615132979, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1670703615132991, "dur":2119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1670703615135177, "dur":36403, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1670703615171584, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1670703615171593, "dur":1911, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1670703615173582, "dur":38154, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1670703615211741, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1670703615211754, "dur":2064, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1670703615213891, "dur":18533, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1670703615232428, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1670703615232440, "dur":2953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1670703615235460, "dur":28514, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1670703615263980, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1670703615263991, "dur":4032, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1670703615268100, "dur":196073, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":14, "ts":1670703615464180, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1670703615464190, "dur":2225, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":14, "ts":1670703615466493, "dur":56589, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":14, "ts":1670703615523086, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1670703615523093, "dur":2440, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":14, "ts":1670703615525605, "dur":149797, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1670703614970909, "dur":434, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1670703614971344, "dur":6422, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1670703614977770, "dur":327, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":15, "ts":1670703614978099, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1670703614989160, "dur":74859, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":15, "ts":1670703615064111, "dur":17933, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1670703615082050, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1670703615082160, "dur":3698, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1670703615085943, "dur":14920, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1670703615100869, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1670703615100878, "dur":2686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1670703615103635, "dur":16373, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1670703615120011, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1670703615120018, "dur":2112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1670703615122198, "dur":33930, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1670703615156140, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1670703615156243, "dur":2675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1670703615158986, "dur":14246, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1670703615173237, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1670703615173248, "dur":2077, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1670703615175398, "dur":25612, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1670703615201013, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1670703615201024, "dur":2018, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1670703615203116, "dur":52013, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1670703615255134, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1670703615255145, "dur":2088, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1670703615257302, "dur":98276, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":15, "ts":1670703615355584, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1670703615355598, "dur":15105, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":15, "ts":1670703615370781, "dur":172402, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":15, "ts":1670703615543191, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1670703615543205, "dur":2406, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":15, "ts":1670703615545690, "dur":129695, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1670703614970931, "dur":416, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1670703614971347, "dur":6421, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1670703614977771, "dur":11251, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1670703614989025, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1670703614989144, "dur":2044, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1670703614991279, "dur":5097, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":16, "ts":1670703614996389, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1670703614996401, "dur":69430, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":16, "ts":1670703615065928, "dur":17957, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670703615083892, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1670703615083902, "dur":4946, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670703615088950, "dur":47063, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670703615136018, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1670703615136289, "dur":4919, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670703615141277, "dur":15274, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670703615156554, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1670703615156562, "dur":8812, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670703615165453, "dur":18132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670703615183589, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1670703615183598, "dur":1615, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670703615185290, "dur":29556, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670703615214849, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1670703615214857, "dur":3446, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670703615218383, "dur":20177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670703615238563, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1670703615238570, "dur":6368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670703615245032, "dur":47841, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670703615292878, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1670703615292888, "dur":12638, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670703615305598, "dur":4724, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670703615310329, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1670703615310341, "dur":2093, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670703615312543, "dur":114496, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670703615427045, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1670703615427056, "dur":3678, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670703615430829, "dur":99842, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670703615530677, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1670703615530689, "dur":2363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/User/OneDrive/ /Rolling Stones_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":16, "ts":1670703615533124, "dur":142264, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1670703615679594, "dur":1715, "ph":"X", "name": "ProfilerWriteOutput" }
+,
