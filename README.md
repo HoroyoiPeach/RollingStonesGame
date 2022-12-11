@@ -7,6 +7,11 @@
 * Unity 3D툴을 이용한 게임을 제작했습니다.
 * [Roll-a-Ball](https://learn.unity.com/project/roll-a-ball-1)이라는 Unity3D 예제를 응용하여 게임을 제작했습니다.
 
+## Using Tool
+![Unity Logo](https://user-images.githubusercontent.com/113342005/206895697-0784ef58-239e-44ae-84a3-dd88a59d988f.png)
+
+Unity 3D를 사용했습니다.
+
 ## Description
 
 * 방향키로 조작하며 space bar로 점프할 수 있습니다.
