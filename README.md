@@ -35,7 +35,7 @@
 ## References
   * [Roll-a-Ball](https://learn.unity.com/project/roll-a-ball-1)
   * https://answers.unity.com/questions/161858/startstop-playmode-from-editor-script.html // 게임종료코드 참고
-  * https://youtu.be/Gcoj3llfzSw //델타타임 참고
+  * https://youtu.be/Gcoj3llfzSw //Unity 공식 델타타임 참고
 
 ## LICENCE
   * MIT
