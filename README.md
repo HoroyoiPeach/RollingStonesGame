@@ -26,7 +26,7 @@
     * CameraMove.cs //플레이어를 따라다니는 카메라의 움직임에 관한 코드입니다.
     * GameManagerLogic.cs //UI, 아이템의 카운트 등의 게임의 전반적인 로직을 구성하는 코드입니다. 
     * ItemBar.cs  //아이템의 회전에 관한 코드입니다.
-    * StoneBall.cs  //플레이어의 조작을 총괄하는 코드입니다.
+    * StoneBall.cs  //플레이어의 움직임과 조작을 총괄하는 코드입니다.
 
 
 ## Game Play
