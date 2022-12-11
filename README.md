@@ -1,5 +1,6 @@
 # **Rolling Stones Game**
-![Rolling Stones Screenshot](https://user-images.githubusercontent.com/113342005/206895046-9815d796-f97d-4fa2-adfc-3db37d10f02d.png)
+![Rolling Stones Screenshot](https://user-images.githubusercontent.com/113342005/206895222-23149c36-0cd7-4ce4-a167-a8ae32521f9f.png)
+
 
 ## Introduction
 * SeulTech 오픈소스소프트웨어 term project로 개발했습니다.
@@ -31,7 +32,7 @@
 
 
 ## Game Play
-
+https://user-images.githubusercontent.com/113342005/206895266-197b2cd1-a56c-4f74-8311-684f8e1915dd.mp4
 
 ## References
   * [Roll-a-Ball](https://learn.unity.com/project/roll-a-ball-1)
