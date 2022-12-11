@@ -38,6 +38,7 @@ https://user-images.githubusercontent.com/113342005/206895266-197b2cd1-a56c-4f74
   * [Roll-a-Ball](https://learn.unity.com/project/roll-a-ball-1)
   * https://answers.unity.com/questions/161858/startstop-playmode-from-editor-script.html // 게임종료코드 참고
   * https://youtu.be/Gcoj3llfzSw //Unity 공식 델타타임 참고
-
+  * https://youtu.be/SxNCudPrSMg //게임 클리어 사운드 출처
+  * https://www.pexels.com/  //텍스쳐 이미지 사용 출처
 ## LICENCE
   * MIT
