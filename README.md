@@ -1,4 +1,5 @@
 # **Rolling Stones Game**
+![Rolling Stones Screenshot](https://user-images.githubusercontent.com/113342005/206895046-9815d796-f97d-4fa2-adfc-3db37d10f02d.png)
 
 ## Introduction
 * SeulTech 오픈소스소프트웨어 term project로 개발했습니다.
